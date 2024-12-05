@@ -38,7 +38,7 @@ export const ProjectsList = {
       technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "Figma"],
     },
     {
-      name: "Dashboard Panel",
+      name: "Iphone Clone",
       description:
         "User Admin Dashboard created with React js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, four different Charts, three different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.",
       technologies: ["React JS", "Material UI"],
@@ -64,7 +64,7 @@ export const ProjectsList = {
       ],
     },
     {
-      name: "Olx-Clone",
+      name: "FutireForge",
       description:
         "Olx-clone builds with react js. using firebase as a backend and deploying in firebase. Olx-Clone is a potential classified advertisement website that categorizes objects in a user-friendly manner & displays them as advertisements.. Classifieds can be posted that involve selling, and buying using React-router, context, react hooks",
       technologies: [
