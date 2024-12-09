@@ -1,9 +1,9 @@
 export const ProjectsList = {
   projects: [
     {
-      name: "StratAgile HRMS",
+      name: "FutureForge",
       description:
-        "Stratagile HRMS is a web-based Human Resource Management System built using React. It is designed to streamline HR processes and enhance organizational efficiency by providing a set of features for leave management, employee tracking, alumni management, branch office organization, holiday calendars, and working day schedules.",
+        "FutureForge is an innovative platform designed to bridge the gap between aspiring interns and experienced mentors. By offering personalized one-on-one mentoring sessions, the platform empowers users to enhance their skills and confidence, increasing their chances of securing dream internships. FutureForge not only connects mentees with professionals but also creates opportunities for experienced individuals to become mentors and give back to the community. With a curated list of premium internships, an engaging community space, and user-friendly features, FutureForge provides everything needed to navigate the competitive internship landscape and achieve career success.",
       technologies: [
         "React JS",
         "redux",
