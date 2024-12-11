@@ -17,7 +17,7 @@ export const ProjectsList = {
       ],
     },
     {
-      name: "Zymsi - Gym Membership Platform",
+      name: "Real Esatate React Website",
       description:
         "Contributed to the frontend development of Zymsi, a platform facilitating flexible gym memberships. Implemented user-friendly interface features and collaborated closely with backend and design teams.",
       technologies: [
