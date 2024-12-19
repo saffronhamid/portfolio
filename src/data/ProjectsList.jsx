@@ -19,7 +19,7 @@ export const ProjectsList = {
     {
       name: "Real Esatate React Website",
       description:
-        "Contributed to the frontend development of realestate website , a platform facilitating flexible gym memberships. Implemented user-friendly interface features and collaborated closely with backend and design teams.",
+        "Frontend development of Realestate Website , a platform facilitating flexible gym memberships. Implemented user-friendly interface features and collaborated closely with backend and design teams.",
       technologies: [
         "React JS",
         "REST APIs",
