@@ -3,7 +3,7 @@
 
 
 
-This is my personal portfolio website built with React.js and Tailwindcss, showcasing my skills and projects. The website is designed and created entirely by me, Faizan Hamid.
+This is my(Faizan Hamids) personal portfolio website built with React.js and Tailwindcss, showcasing my skills and projects. The website is designed and created entirely by me, Faizan Hamid.
 
 ## Features
 
