@@ -26,7 +26,7 @@ For more information about deploying a React application, refer to the [deployme
    git clone https://github.com/saffronhamid/portfolio.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory and then run this command:
    ```
    cd portfolio
    ```
