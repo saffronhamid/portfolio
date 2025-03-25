@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ProjectsList } from "../data/ProjectsList";
-
+import react from react 
 function Cards() {
   const [showFullDescription, setShowFullDescription] = useState(null);
   const projectsToDisplay = ProjectsList.projects.slice(0, 4);
